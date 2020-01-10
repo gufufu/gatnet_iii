@@ -6,6 +6,7 @@ export default ({pageContext}) => (
             {pageContext.title}
 
             this is from post page
+            this is the second line
         </h1>
     </div>
 );
