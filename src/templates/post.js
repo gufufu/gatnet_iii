@@ -7,6 +7,7 @@ export default ({pageContext}) => (
 
             this is from post page
             this is the second line
+            third in line
         </h1>
     </div>
 );
